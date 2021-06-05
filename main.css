@@ -395,10 +395,11 @@ margin-top:0;
 margin-bottom: 10px;
 }
 
-.container .block1 .blurblock .content a1{
+.container .block1 .blurblock .content h6{
 font-size: 0.3em;
 color: #fff;
 font-weight: 300;
+font-family: Verdana,Geneva,sans-serif; 
 }
 
 .container a{
@@ -566,6 +567,7 @@ text-align: center;
 .container .card:nth-child(5){
   height:150px;
 }
+
 .container .card:hover .content h2{
   opacity: 1;
   transform: translateY(140px);
@@ -651,4 +653,3 @@ text-align: center;
   transition: 0.5s;
   pointer-events: none;
 }
-
