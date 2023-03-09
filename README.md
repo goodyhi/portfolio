@@ -1,3 +1,3 @@
 # portfolio
 Design Portfolio.
-Live at www.andytian.tech.
+Live at https://goodyhi.github.io/portfolio/
